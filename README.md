@@ -11,7 +11,7 @@ Program also allows the user to check inventory status and stock.
 
 ## Authors
 
-* **Lyza Whaley** 
-* *Miranda Culpepper**
+* Lyza Whaley
+* Miranda Culpepper
 
 
